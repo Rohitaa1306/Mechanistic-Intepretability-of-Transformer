@@ -2,7 +2,7 @@
 
 Welcome to the Mechanistic Interpretability of Transformers repository! Here, we delve into the fascinating world of transformers, the backbone of language and vision models, to uncover their mysteries. This project takes you on a journey of building and training transformers from scratch, with a special focus on unraveling the secrets hidden within their attention layers.
 
-##Introduction
+## Introduction
 
 Transformers are like the wizards of the artificial intelligence realm, enabling machines to understand and generate human-like text and images. Think of them as brilliant storytellers that learn from examples and capture intricate patterns in language and vision. Our project aims to demystify these transformers by not only using them but also understanding what happens inside their magical layers.
 
