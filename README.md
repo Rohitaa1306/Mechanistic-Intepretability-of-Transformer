@@ -1,3 +1,5 @@
+For an in-depth analysis of our findings, please refer to the [Mechanistic Interpretability Report](Documentation/Report.pdf).
+
 # Mechanistic Interpretability of Transformers
 
 Welcome to the Mechanistic Interpretability of Transformers repository! Here, we delve into the fascinating world of transformers, the backbone of language and vision models, to uncover their mysteries. This project takes you on a journey of building and training transformers from scratch, with a special focus on unraveling the secrets hidden within their attention layers.
@@ -19,9 +21,7 @@ Embark on a technical journey by delving into the following notebooks, each unra
 
 The entirety of the source code is accessible in the `Code/` directory.
 
-## Results and Report Highlights
-
-For an in-depth analysis of our findings, please refer to the [Mechanistic Interpretability Report](Documentation/Report.pdf). The report elucidates key aspects such as:
+## Results and Report Highlights 
 
 1. **Model Training Performance**: An evaluation of the performance metrics achieved by our transformers on IMDB and WIKITEXT datasets.
 2. **Attention Layer Insights**: An exploration of the learned patterns within the attention layers, unraveling the narrative-building capacities of transformers.
